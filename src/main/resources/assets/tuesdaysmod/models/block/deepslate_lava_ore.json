@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "tuesdaysmod:block/deepslate_lava_ore"
+  }
+}

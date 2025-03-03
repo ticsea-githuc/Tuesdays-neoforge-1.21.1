@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tuesdaysmod:deepslate_lava_ore",
+    "tuesdaysmod:lava_ore",
+    "tuesdaysmod:lava_block"
+  ]
+}

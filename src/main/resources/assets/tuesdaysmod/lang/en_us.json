@@ -1,0 +1,12 @@
+{
+  "item.tuesdaysmod.lava_ingot": "Lava Ingot",
+  "item.tuesdaysmod.raw_lava": "Raw Lava",
+  "item.tuesdaysmod.pork_ingot": "Prok Ingot",
+
+  "block.tuesdaysmod.lava_block": "Lava Block",
+  "block.tuesdaysmod.lava_ore": "Lava Ore",
+  "block.tuesdaysmod.deepslate_lava_ore": "Deepslate Lava Ore",
+
+  "creativetab.tuesdaysmod.lava_ingot_items": "Items",
+  "creativetab.tuesdaysmod.lava_ingot_blocks": "Blocks"
+}
